@@ -1,0 +1,14 @@
+header {
+    position: top fixed;
+}
+
+figure {
+    float: right;
+    position: fixed right;
+}
+
+footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
